@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
               onPressed: () async {
                 FlutterPhoneDialer.dialNumber(_numberCtrl.text);
               },
-            )
+            ),
           ],
         ),
       ),
