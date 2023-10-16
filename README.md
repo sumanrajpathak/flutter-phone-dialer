@@ -1,7 +1,7 @@
 # Flutter Phone Dialer
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/devSumanrazz/flutter-phone-dialer/blob/main/LICENSE)
-[![pub package](https://img.shields.io/pub/v/flutter-phone-dialer.svg)](https://pub.dev/packages/flutter-phone-dialer)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/devSumanrazz/flutter_phone_dialer/blob/main/LICENSE)
+[![pub package](https://img.shields.io/pub/v/flutter_phone_dialer.svg)](https://pub.dev/packages/flutter_phone_dialer)
 [![package publisher](https://img.shields.io/pub/publisher/flutter-phone-dialer.svg)](https://pub.dev/publishers/sumanrajpathak.com.np/packages)
 
 Calls Made Simple: Integrate Phone Number Dialing into Your Flutter App Effortlessly!
