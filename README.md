@@ -48,6 +48,6 @@ void main() {
 
 _callNumber() async{
   const number = '0123456789'; //enter your number here
-  bool res = await FlutterPhoneDialer.callNumber(number);
+  bool res = await FlutterPhoneDialer.dialNumber(number);
 }
 ```
