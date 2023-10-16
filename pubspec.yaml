@@ -1,0 +1,25 @@
+name: flutter_phone_dialer
+description: "Calls Made Simple: Integrate Phone Number Dialing into Your Flutter App Effortlessly!"
+version: 0.0.1
+homepage: https://github.com/devsumanrazz
+repository: https://github.com/devsumanrazz/flutter-phone-dialer
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_lints: 1.0.4
+
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.sumanrajpathak.flutterphonedialer
+        pluginClass: FlutterPhoneDialerPlugin
+      ios:
+        pluginClass: FlutterPhoneDialerPlugin
