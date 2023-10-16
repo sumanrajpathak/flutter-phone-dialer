@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/devSumanrazz/flutter_phone_dialer/blob/main/LICENSE)
 [![pub package](https://img.shields.io/pub/v/flutter_phone_dialer.svg)](https://pub.dev/packages/flutter_phone_dialer)
-[![package publisher](https://img.shields.io/pub/publisher/flutter-phone-dialer.svg)](https://pub.dev/publishers/sumanrajpathak.com.np/packages)
+[![package publisher](https://img.shields.io/pub/publisher/flutter_phone_dialer.svg)](https://pub.dev/publishers/sumanrajpathak.com.np/packages)
 
 Calls Made Simple: Integrate Phone Number Dialing into Your Flutter App Effortlessly!
 
@@ -11,7 +11,7 @@ Calls Made Simple: Integrate Phone Number Dialing into Your Flutter App Effortle
 Add dependency to pubspec.yaml file
 
 ```yaml
-flutter_phone_dialer: ^0.0.1
+flutter_phone_dialer: ^0.0.2
 ```
 
 ### Android
