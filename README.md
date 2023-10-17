@@ -11,7 +11,7 @@ Calls Made Simple: Integrate Phone Number Dialing into Your Flutter App Effortle
 Add dependency to pubspec.yaml file
 
 ```yaml
-flutter_phone_dialer: ^0.0.3
+flutter_phone_dialer: ^0.0.4
 ```
 
 ### Android
