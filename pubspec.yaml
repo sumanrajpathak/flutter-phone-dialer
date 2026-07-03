@@ -1,19 +1,28 @@
 name: flutter_phone_dialer
-description: "Calls Made Simple: Integrate Phone Number Dialing into Your Flutter App Effortlessly!"
-version: 0.0.5
-homepage: https://github.com/devsumanrazz
-repository: https://github.com/devsumanrazz/flutter-phone-dialer
+description: "Open the phone dialer or place calls from your Flutter app on Android and iOS, with or without the CALL_PHONE permission."
+version: 0.1.0
+homepage: https://github.com/sumanrajpathak/flutter-phone-dialer
+repository: https://github.com/sumanrajpathak/flutter-phone-dialer
+issue_tracker: https://github.com/sumanrajpathak/flutter-phone-dialer/issues
+
+topics:
+  - phone
+  - dialer
+  - call
+  - telephony
 
 environment:
-  sdk: '>=2.12.0 <4.0.0'
-  flutter: ">=2.0.0"
+  sdk: ^3.1.0
+  flutter: ">=3.13.0"
 
 dependencies:
   flutter:
     sdk: flutter
-dev_dependencies:
-  flutter_lints: 1.0.4
 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
 
 flutter:
   plugin:
