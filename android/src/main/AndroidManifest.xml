@@ -1,5 +1,8 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.sumanrajpathak.flutterphonedialer">
-    <uses-permission android:name="android.permission.CALL_PHONE"/>
-    <uses-feature android:name="android.hardware.telephony" android:required="false" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- CALL_PHONE is intentionally NOT declared here: dialNumber() does not
+         need it, and apps using callNumber() must opt in by declaring it in
+         their own manifest. -->
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
 </manifest>
